@@ -8,13 +8,5 @@ public class Test1 {
 	}
 	public void Foot(){
 		System.out.println("Foot Ball");
-	}  
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Test1 t1=new Test1();
-		t1.Cricket();
-		t1.Motor();
-		t1.Foot();
 	}
-
 }
